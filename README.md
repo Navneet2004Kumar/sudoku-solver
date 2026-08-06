@@ -1,6 +1,6 @@
 # 🧩 Sudoku Solver
 
-A Sudoku Solver developed as part of the **Design and Analysis of Algorithms (DAA)** course. The project efficiently solves any valid 9×9 Sudoku puzzle using the **Backtracking Algorithm**, demonstrating recursion, constraint satisfaction, and algorithmic problem-solving.
+A Sudoku Solver developed as part of the  Design and Analysis of Algorithms (DAA)** course. The project efficiently solves any valid 9×9 Sudoku puzzle using the **Backtracking Algorithm**, demonstrating recursion, constraint satisfaction, and algorithmic  problem-solving.
 
 
 ## 📖 Overview
